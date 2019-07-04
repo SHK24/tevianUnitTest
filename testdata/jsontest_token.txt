@@ -1,0 +1,6 @@
+{
+  "data": {
+    "access_token": "user_token"
+  },
+  "status_code": 200
+}

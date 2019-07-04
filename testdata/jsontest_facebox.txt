@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "bbox": {
+        "height": 64,
+        "width": 64,
+        "x": 64,
+        "y": 40
+      },
+      "demographics": {
+        "age": {
+          "mean": 28,
+          "variance": 51
+        },
+        "ethnicity": "caucasian",
+        "gender": "female"
+      },
+      "score": 0.999431
+    }
+  ],
+  "status_code": 200
+}
